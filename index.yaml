@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  testingchart:
+  qantas-api:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-28T10:26:48.677959+01:00"
+    created: "2025-03-28T10:36:24.394928+01:00"
     description: A Helm chart for Kubernetes
-    digest: 95e8bd01e51a741aa79e315cae367cfe87df8829f2c6e72cd4014a10eefff2d6
-    name: testingchart
+    digest: c85d92f841e89534b54d7951afd9c05fe72b4d4a6320287f4286b950b2b24beb
+    name: qantas-api
     type: application
     urls:
-    - https://fluxguide.github.io/qantas-helm/testingchart-0.1.0.tgz
+    - https://fluxguide.github.io/qantas-helm/qantas-api-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-28T10:26:48.677188+01:00"
+generated: "2025-03-28T10:36:24.394468+01:00"
