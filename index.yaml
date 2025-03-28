@@ -3,7 +3,7 @@ entries:
   qantas-api:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-28T11:21:04.294321+01:00"
+    created: "2025-03-28T11:24:14.702388+01:00"
     description: A Helm chart for Kubernetes
     digest: c85d92f841e89534b54d7951afd9c05fe72b4d4a6320287f4286b950b2b24beb
     name: qantas-api
@@ -11,15 +11,15 @@ entries:
     urls:
     - https://fluxguide.github.io/qantas-helm/qantas-api-0.1.0.tgz
     version: 0.1.0
-  qantas-chart:
+  qantas-cms:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-28T11:21:04.294984+01:00"
+    created: "2025-03-28T11:24:14.702986+01:00"
     description: A Helm chart for Kubernetes
-    digest: 1f890be3c29abd75936ade9fa1f4d97446bbce4f1cbe7c9229e86eaf560cb5d4
-    name: qantas-chart
+    digest: 597e96f20152327e0b9ed472d13854a81e58ce5dbdbea6e1740147ba779127da
+    name: qantas-cms
     type: application
     urls:
-    - https://fluxguide.github.io/qantas-helm/qantas-chart-0.1.0.tgz
+    - https://fluxguide.github.io/qantas-helm/qantas-cms-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-28T11:21:04.293511+01:00"
+generated: "2025-03-28T11:24:14.701404+01:00"
