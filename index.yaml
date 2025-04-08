@@ -21,7 +21,7 @@ entries:
     type: application
     urls:
     - https://fluxguide.github.io/qantas-helm/qantas-app-0.1.0.tgz
-    version: 0.1.0
+    version: 0.1.1
   qantas-cms:
   - apiVersion: v2
     appVersion: 1.16.0
